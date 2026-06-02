@@ -1,0 +1,22 @@
+Cartoon Filter Project
+
+A real-time Cartoon Filter project built using Python and OpenCV.
+
+Features:
+- Real-time webcam processing
+- Cartoon-style visual effect
+- Beginner-friendly computer vision project
+
+Technologies Used:
+- Python
+- OpenCV
+
+How to Run:
+1. Install Python
+2. Install OpenCV:
+   pip install opencv-python
+3. Run the project:
+   python cartoon.py
+
+Author:
+Angel
